@@ -1,0 +1,1 @@
+﻿create database homeworkwp7;
